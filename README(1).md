@@ -6,7 +6,7 @@ Pour lancer le projet, ouvrez un terminal dans votre IDE et dans le dossier serv
 
 Ouvrez un second terminal, allez dans le dossier client.
 
-Tapez la commande npm i --force.
+Tapez la commande npm i --force (lié à un problème sur les versions de certaines librairies il me semble, je compte régler ce problème au plus vite).
 
 Ensuite, tapez la commande npm run dev. Rendez-vous sur le lien apparaissant, et ça y est, l'application est lancée en local !
 
