@@ -1,0 +1,17 @@
+.Menu {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+.menu-btn {
+  padding: 20px 40px;
+  font-size: 1.5rem;
+  border-radius: 4px;
+  color: #646cff;
+  transition: all 0.3s ease;
+}
+.menu-btn:hover {
+  color: #3a44f9;
+  border: 1px solid #3a44f9;
+}
